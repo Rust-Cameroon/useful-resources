@@ -1,4 +1,4 @@
-# rust-learning [![Build Status](https://github.com/ctjhoa/rust-learning/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/ctjhoa/rust-learning/actions/workflows/main.yml)
+# rust-learning 
 
 A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel free to submit a pull request if you have some links/resources to add. Also, We tried to verify that the articles below have some real content (i.e. they aren't 2 paragraph long blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let us know.
 
