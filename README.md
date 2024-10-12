@@ -4,7 +4,7 @@ A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel fr
 
 ## Introduction
 
-The main documentation is always the best beginning, so if you haven't read it yet, start by reading the [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You can also have the ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/)[here](https://github.com/lise-henry/books/).
+The main documentation is always the best beginning, so if you haven't read it yet, start by reading the [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You can also have the ebook versions of the doc [here](https://github.com/lise-henry/books/).
 
 ### Tag meanings
 
