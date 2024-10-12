@@ -581,7 +581,7 @@ of interest if you're running a workshop on Rust.
 ## Similar projects
 
 * [Curated Resources to Learn Rust](https://hackr.io/tutorials/learn-rust) - Hackr.io
-* [Rust Anthology Master List](https://github.com/brson/rust-anthology/blob/master/master-list.md) - [Brian Anderson][]
+* [Rust Anthology Master List](https://github.com/brson/rust-anthology/blob/master/master-list.md) - Brian Anderson
 * [Read Rust](https://readrust.net/)
 
 
