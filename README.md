@@ -12,6 +12,9 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :end: Concepts are still useful but code could not compile.
 * :soon: Work In Progress.
 
+## New
+* [Rustfinity](https://www.rustfinity.com/)
+  
 ## Table of Contents
 
 * [Books](#books)
